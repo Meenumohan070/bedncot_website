@@ -1,0 +1,20 @@
+.navbar-brand{
+    font-weight: bold;
+}
+.nav-link active{
+    font-weight: bold;
+}
+.container-fluid{
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color:red;
+}
+#read-btn{
+    border-radius: 5px 5px;
+    background-color: rgb(199, 26, 26);
+    color: white;
+}
+#read-btn:hover{
+    background-color: black;
+}
